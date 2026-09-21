@@ -1,0 +1,448 @@
+2026-09-20 17:49:57,398  INFO     db_manager  Схема БД создана/проверена.
+2026-09-20 17:49:57,399  INFO     etl_pipeline  ═══ Этап 1: Загрузка seed-данных из литературы ═══
+2026-09-20 17:50:13,501  INFO     db_manager  Схема БД создана/проверена.
+2026-09-20 17:50:13,501  WARNING  db_manager  CSV не найден: /home/mergen/attenuator_db/exported_attenuators_standardized_db (4).csv
+2026-09-20 17:50:13,501  INFO     run  Мигрировано 0 записей. Всего: 94
+2026-09-20 17:51:23,994  INFO     db_manager  Схема БД создана/проверена.
+2026-09-20 17:51:24,021  INFO     db_manager  ✅ Новая запись: CSV_1
+2026-09-20 17:51:24,026  INFO     db_manager  ✅ Новая запись: CSV_2
+2026-09-20 17:51:24,031  INFO     db_manager  ✅ Новая запись: CSV_3
+2026-09-20 17:51:24,035  INFO     db_manager  ✅ Новая запись: CSV_4
+2026-09-20 17:51:24,040  INFO     db_manager  ✅ Новая запись: CSV_5
+2026-09-20 17:51:24,043  INFO     db_manager  ✅ Новая запись: CSV_6
+2026-09-20 17:51:24,047  INFO     db_manager  ✅ Новая запись: CSV_7
+2026-09-20 17:51:24,051  INFO     db_manager  ✅ Новая запись: CSV_8
+2026-09-20 17:51:24,053  INFO     db_manager  ✅ Новая запись: CSV_9
+2026-09-20 17:51:24,056  INFO     db_manager  ✅ Новая запись: CSV_10
+2026-09-20 17:51:24,059  INFO     db_manager  ✅ Новая запись: CSV_11
+2026-09-20 17:51:24,063  INFO     db_manager  ✅ Новая запись: CSV_12
+2026-09-20 17:51:24,066  INFO     db_manager  ✅ Новая запись: CSV_13
+2026-09-20 17:51:24,069  INFO     db_manager  ✅ Новая запись: CSV_14
+2026-09-20 17:51:24,072  INFO     db_manager  ✅ Новая запись: CSV_15
+2026-09-20 17:51:24,075  INFO     db_manager  ✅ Новая запись: CSV_16
+2026-09-20 17:51:24,079  INFO     db_manager  ✅ Новая запись: CSV_17
+2026-09-20 17:51:24,081  INFO     db_manager  ✅ Новая запись: CSV_18
+2026-09-20 17:51:24,084  INFO     db_manager  ✅ Новая запись: CSV_19
+2026-09-20 17:51:24,087  INFO     db_manager  ✅ Новая запись: CSV_20
+2026-09-20 17:51:24,090  INFO     db_manager  ✅ Новая запись: CSV_21
+2026-09-20 17:51:24,093  INFO     db_manager  ✅ Новая запись: CSV_22
+2026-09-20 17:51:24,097  INFO     db_manager  ✅ Новая запись: CSV_23
+2026-09-20 17:51:24,100  INFO     db_manager  ✅ Новая запись: CSV_24
+2026-09-20 17:51:24,103  INFO     db_manager  ✅ Новая запись: CSV_25
+2026-09-20 17:51:24,106  INFO     db_manager  ✅ Новая запись: CSV_26
+2026-09-20 17:51:24,109  INFO     db_manager  ✅ Новая запись: CSV_27
+2026-09-20 17:51:24,112  INFO     db_manager  ✅ Новая запись: CSV_28
+2026-09-20 17:51:24,115  INFO     db_manager  ✅ Новая запись: CSV_29
+2026-09-20 17:51:24,118  INFO     db_manager  ✅ Новая запись: CSV_30
+2026-09-20 17:51:24,122  INFO     db_manager  ✅ Новая запись: CSV_31
+2026-09-20 17:51:24,126  INFO     db_manager  ✅ Новая запись: CSV_32
+2026-09-20 17:51:24,129  INFO     db_manager  ✅ Новая запись: CSV_33
+2026-09-20 17:51:24,132  INFO     db_manager  ✅ Новая запись: CSV_34
+2026-09-20 17:51:24,135  INFO     db_manager  ✅ Новая запись: CSV_35
+2026-09-20 17:51:24,139  INFO     db_manager  ✅ Новая запись: CSV_36
+2026-09-20 17:51:24,142  INFO     db_manager  ✅ Новая запись: CSV_37
+2026-09-20 17:51:24,144  INFO     db_manager  ✅ Новая запись: CSV_38
+2026-09-20 17:51:24,147  INFO     db_manager  ✅ Новая запись: CSV_39
+2026-09-20 17:51:24,150  INFO     db_manager  ✅ Новая запись: CSV_40
+2026-09-20 17:51:24,153  INFO     db_manager  ✅ Новая запись: CSV_41
+2026-09-20 17:51:24,156  INFO     db_manager  ✅ Новая запись: CSV_42
+2026-09-20 17:51:24,159  INFO     db_manager  ✅ Новая запись: CSV_43
+2026-09-20 17:51:24,163  INFO     db_manager  ✅ Новая запись: CSV_44
+2026-09-20 17:51:24,165  INFO     db_manager  ✅ Новая запись: CSV_45
+2026-09-20 17:51:24,169  INFO     db_manager  ✅ Новая запись: CSV_46
+2026-09-20 17:51:24,174  INFO     db_manager  ✅ Новая запись: CSV_47
+2026-09-20 17:51:24,177  INFO     db_manager  ✅ Новая запись: CSV_48
+2026-09-20 17:51:24,181  INFO     db_manager  ✅ Новая запись: CSV_49
+2026-09-20 17:51:24,184  INFO     db_manager  ✅ Новая запись: CSV_50
+2026-09-20 17:51:24,186  INFO     db_manager  ✅ Новая запись: CSV_51
+2026-09-20 17:51:24,190  INFO     db_manager  ✅ Новая запись: CSV_52
+2026-09-20 17:51:24,193  INFO     db_manager  ✅ Новая запись: CSV_53
+2026-09-20 17:51:24,196  INFO     db_manager  ✅ Новая запись: CSV_54
+2026-09-20 17:51:24,198  INFO     db_manager  ✅ Новая запись: CSV_55
+2026-09-20 17:51:24,201  INFO     db_manager  ✅ Новая запись: CSV_56
+2026-09-20 17:51:24,204  INFO     db_manager  ✅ Новая запись: CSV_57
+2026-09-20 17:51:24,207  INFO     db_manager  ✅ Новая запись: CSV_58
+2026-09-20 17:51:24,211  INFO     db_manager  ✅ Новая запись: CSV_59
+2026-09-20 17:51:24,214  INFO     db_manager  ✅ Новая запись: CSV_60
+2026-09-20 17:51:24,217  INFO     db_manager  ✅ Новая запись: CSV_61
+2026-09-20 17:51:24,219  INFO     db_manager  ✅ Новая запись: CSV_62
+2026-09-20 17:51:24,222  INFO     db_manager  ✅ Новая запись: CSV_63
+2026-09-20 17:51:24,225  INFO     db_manager  ✅ Новая запись: CSV_64
+2026-09-20 17:51:24,229  INFO     db_manager  ✅ Новая запись: CSV_65
+2026-09-20 17:51:24,232  INFO     db_manager  ✅ Новая запись: CSV_66
+2026-09-20 17:51:24,234  INFO     db_manager  ✅ Новая запись: CSV_67
+2026-09-20 17:51:24,237  INFO     db_manager  ✅ Новая запись: CSV_68
+2026-09-20 17:51:24,240  INFO     db_manager  ✅ Новая запись: CSV_69
+2026-09-20 17:51:24,243  INFO     db_manager  ✅ Новая запись: CSV_70
+2026-09-20 17:51:24,246  INFO     db_manager  ✅ Новая запись: CSV_71
+2026-09-20 17:51:24,249  INFO     db_manager  ✅ Новая запись: CSV_72
+2026-09-20 17:51:24,252  INFO     db_manager  ✅ Новая запись: CSV_73
+2026-09-20 17:51:24,255  INFO     db_manager  ✅ Новая запись: CSV_74
+2026-09-20 17:51:24,257  INFO     db_manager  ✅ Новая запись: CSV_75
+2026-09-20 17:51:24,261  INFO     db_manager  ✅ Новая запись: CSV_76
+2026-09-20 17:51:24,264  INFO     db_manager  ✅ Новая запись: CSV_77
+2026-09-20 17:51:24,267  INFO     db_manager  ✅ Новая запись: CSV_78
+2026-09-20 17:51:24,270  INFO     db_manager  ✅ Новая запись: CSV_79
+2026-09-20 17:51:24,273  INFO     db_manager  ✅ Новая запись: CSV_80
+2026-09-20 17:51:24,276  INFO     db_manager  ✅ Новая запись: CSV_81
+2026-09-20 17:51:24,279  INFO     db_manager  ✅ Новая запись: CSV_82
+2026-09-20 17:51:24,282  INFO     db_manager  ✅ Новая запись: CSV_83
+2026-09-20 17:51:24,285  INFO     db_manager  ✅ Новая запись: CSV_84
+2026-09-20 17:51:24,288  INFO     db_manager  ✅ Новая запись: CSV_85
+2026-09-20 17:51:24,291  INFO     db_manager  ✅ Новая запись: CSV_86
+2026-09-20 17:51:24,295  INFO     db_manager  ✅ Новая запись: CSV_87
+2026-09-20 17:51:24,298  INFO     db_manager  ✅ Новая запись: CSV_88
+2026-09-20 17:51:24,301  INFO     db_manager  ✅ Новая запись: CSV_89
+2026-09-20 17:51:24,304  INFO     db_manager  ✅ Новая запись: CSV_90
+2026-09-20 17:51:24,305  INFO     db_manager  Загружено 90 новых записей из 90
+2026-09-20 17:51:24,305  INFO     run  Мигрировано 90 записей. Всего: 90
+2026-09-20 17:51:32,334  INFO     db_manager  Схема БД создана/проверена.
+2026-09-20 17:51:32,334  INFO     etl_pipeline  ═══ Этап 1: Загрузка seed-данных из литературы ═══
+2026-09-20 17:51:32,342  INFO     db_manager  ✅ Новая запись: SEED_RF01725_PSYR
+2026-09-20 17:51:32,345  INFO     db_manager  ✅ Новая запись: SEED_FOURU_AGSA_SENT
+2026-09-20 17:51:32,349  INFO     db_manager  ✅ Новая запись: SEED_THERMO_PRFA_LMON
+2026-09-20 17:51:32,353  INFO     db_manager  ✅ Новая запись: SEED_THERMO_RPOH_ECOLI
+2026-09-20 17:51:32,357  INFO     db_manager  ✅ Новая запись: SEED_COLD_CSPA_ECOLI
+2026-09-20 17:51:32,361  INFO     db_manager  ✅ Новая запись: SEED_GLMS_BSUB
+2026-09-20 17:51:32,365  INFO     db_manager  ✅ Новая запись: SEED_ADOCBL_BTUB_ECOLI
+2026-09-20 17:51:32,400  INFO     db_manager  ✅ Новая запись: SEED_ERMC_BSUB
+2026-09-20 17:51:32,404  INFO     db_manager  ✅ Новая запись: SEED_CAT86_BSUB
+2026-09-20 17:51:32,408  INFO     db_manager  ✅ Новая запись: SEED_MOCO_MOAA_ECOLI
+2026-09-20 17:51:32,408  INFO     etl_pipeline  Seed: загружено 10 новых из 10
+2026-09-20 17:51:45,735  INFO     db_manager  Схема БД создана/проверена.
+2026-09-20 17:51:45,735  INFO     etl_pipeline  ═══ Этап 1: Загрузка seed-данных из литературы ═══
+2026-09-20 17:51:45,761  INFO     etl_pipeline  Seed: загружено 0 новых из 10
+2026-09-20 17:51:45,761  INFO     etl_pipeline  ═══ Этап 2: Извлечение из RNAcentral по Rfam ID ═══
+2026-09-20 17:51:45,761  INFO     etl_pipeline  🔍 RF00059 — FMN riboswitch
+2026-09-20 17:51:49,878  INFO     sources  [RF00059] Стратегия 2: получено 5 записей
+2026-09-20 17:51:49,889  INFO     db_manager  ✅ Новая запись: RNAC_URS0003C7548F
+2026-09-20 17:51:49,892  INFO     db_manager  ✅ Новая запись: RNAC_URS0003C7548E
+2026-09-20 17:51:49,896  INFO     db_manager  ✅ Новая запись: RNAC_URS0003C7548D
+2026-09-20 17:51:49,900  INFO     db_manager  ✅ Новая запись: RNAC_URS0003C7548C
+2026-09-20 17:51:49,903  INFO     db_manager  ✅ Новая запись: RNAC_URS0003C7548B
+2026-09-20 17:51:50,604  INFO     etl_pipeline  🔍 RF00050 — SAM-I riboswitch
+2026-09-20 17:51:55,184  INFO     sources  [RF00050] Стратегия 2: получено 5 записей
+2026-09-20 17:51:55,886  INFO     etl_pipeline  🔍 RF00080 — TPP riboswitch
+2026-09-20 17:51:59,319  INFO     sources  [RF00080] Стратегия 2: получено 5 записей
+2026-09-20 17:52:00,021  INFO     etl_pipeline  🔍 RF00162 — Glycine riboswitch
+2026-09-20 17:52:04,004  INFO     sources  [RF00162] Стратегия 2: получено 5 записей
+2026-09-20 17:52:04,709  INFO     etl_pipeline  🔍 RF00168 — Lysine riboswitch
+2026-09-20 17:52:09,458  INFO     sources  [RF00168] Стратегия 2: получено 5 записей
+2026-09-20 17:52:10,167  INFO     etl_pipeline  🔍 RF00504 — Purine riboswitch
+2026-09-20 17:52:15,040  INFO     sources  [RF00504] Стратегия 2: получено 5 записей
+2026-09-20 17:52:15,751  INFO     etl_pipeline  🔍 RF00622 — SAM-II riboswitch
+2026-09-20 17:52:19,227  INFO     sources  [RF00622] Стратегия 2: получено 5 записей
+2026-09-20 17:52:19,929  INFO     etl_pipeline  🔍 RF01055 — SAM-IV riboswitch
+2026-09-20 17:52:24,804  INFO     sources  [RF01055] Стратегия 2: получено 5 записей
+2026-09-20 17:52:25,506  INFO     etl_pipeline  🔍 RF01174 — SAM-V riboswitch
+2026-09-20 17:52:29,314  INFO     sources  [RF01174] Стратегия 2: получено 5 записей
+2026-09-20 17:52:30,016  INFO     etl_pipeline  🔍 RF01734 — SAM-VI riboswitch
+2026-09-20 17:52:33,740  INFO     sources  [RF01734] Стратегия 2: получено 5 записей
+2026-09-20 17:52:34,443  INFO     etl_pipeline  🔍 RF00380 — c-di-GMP-II riboswitch
+2026-09-20 17:52:38,169  INFO     sources  [RF00380] Стратегия 3 (EBI): 1 записей
+2026-09-20 17:52:38,875  INFO     etl_pipeline  🔍 RF00234 — c-di-GMP-I riboswitch
+2026-09-20 17:52:43,469  INFO     sources  [RF00234] Стратегия 2: получено 5 записей
+2026-09-20 17:52:44,173  INFO     etl_pipeline  🔍 RF01800 — c-di-GMP-III riboswitch
+2026-09-20 17:52:48,295  INFO     sources  [RF01800] Стратегия 2: получено 5 записей
+2026-09-20 17:52:48,997  INFO     etl_pipeline  🔍 RF00521 — PreQ1 riboswitch
+2026-09-20 17:52:53,453  INFO     sources  [RF00521] Стратегия 2: получено 5 записей
+2026-09-20 17:52:54,157  INFO     etl_pipeline  🔍 RF01831 — Guanidine riboswitch
+2026-09-20 17:52:58,508  INFO     sources  [RF01831] Стратегия 3 (EBI): 1 записей
+2026-09-20 17:52:59,210  INFO     etl_pipeline  🔍 RF02002 — ZTP riboswitch
+2026-09-20 17:53:03,530  INFO     sources  [RF02002] Стратегия 2: получено 5 записей
+2026-09-20 17:53:04,233  INFO     etl_pipeline  🔍 RF02003 — ppGpp riboswitch
+2026-09-20 17:53:08,254  INFO     sources  [RF02003] Стратегия 2: получено 5 записей
+2026-09-20 17:53:08,957  INFO     etl_pipeline  🔍 RF01725 — Fluoride riboswitch
+2026-09-20 17:53:12,644  INFO     sources  [RF01725] Стратегия 2: получено 5 записей
+2026-09-20 17:53:13,349  INFO     etl_pipeline  🔍 RF00174 — MoCo riboswitch
+2026-09-20 17:53:17,468  INFO     sources  [RF00174] Стратегия 2: получено 5 записей
+2026-09-20 17:53:18,174  INFO     etl_pipeline  🔍 RF00060 — T-box (hisS)
+2026-09-20 17:53:21,608  INFO     sources  [RF00060] Стратегия 2: получено 5 записей
+2026-09-20 17:53:22,315  INFO     etl_pipeline  🔍 RF01051 — T-box (ileS)
+2026-09-20 17:53:26,069  INFO     sources  [RF01051] Стратегия 2: получено 5 записей
+2026-09-20 17:53:26,775  INFO     etl_pipeline  🔍 RF01052 — T-box (leuS)
+2026-09-20 17:53:29,938  INFO     sources  [RF01052] Стратегия 2: получено 5 записей
+2026-09-20 17:53:30,644  INFO     etl_pipeline  🔍 RF00032 — ROSE-like thermometer
+2026-09-20 17:53:34,521  INFO     sources  [RF00032] Стратегия 2: получено 5 записей
+2026-09-20 17:53:35,227  INFO     etl_pipeline  🔍 RF00033 — FourU thermometer
+2026-09-20 17:53:39,759  INFO     sources  [RF00033] Стратегия 2: получено 5 записей
+2026-09-20 17:53:40,462  INFO     etl_pipeline  🔍 RF00559 — RNA thermometer
+2026-09-20 17:53:44,769  INFO     sources  [RF00559] Стратегия 2: получено 5 записей
+2026-09-20 17:53:45,473  INFO     etl_pipeline  🔍 RF01042 — RNA thermometer
+2026-09-20 17:53:51,091  INFO     sources  [RF01042] Стратегия 2: получено 5 записей
+2026-09-20 17:53:51,793  INFO     etl_pipeline  RNAcentral: загружено 5 новых записей
+2026-09-20 17:53:51,794  INFO     etl_pipeline  ═══ Этап 3: Извлечение из NCBI Entrez ═══
+2026-09-20 17:53:53,091  INFO     sources  [NCBI] Найдено 3 ID по запросу 'riboswitch[Title] AND (sequence[Title] OR structure[Title])'
+2026-09-20 17:53:54,752  INFO     db_manager  ✅ Новая запись: NCBI_pdb|6HC5|A
+2026-09-20 17:53:54,757  INFO     db_manager  ✅ Новая запись: NCBI_pdb|6HBX|A
+2026-09-20 17:53:54,761  INFO     db_manager  ✅ Новая запись: NCBI_pdb|6HBT|A
+2026-09-20 17:53:56,909  INFO     sources  [NCBI] Найдено 3 ID по запросу 'RNA thermometer[Title] AND (attenuator OR terminator)'
+2026-09-20 17:53:58,919  INFO     db_manager  ✅ Новая запись: NCBI_QW258536.1
+2026-09-20 17:53:58,923  INFO     db_manager  ✅ Новая запись: NCBI_QW258535.1
+2026-09-20 17:53:58,927  INFO     db_manager  ✅ Новая запись: NCBI_QW258534.1
+2026-09-20 17:54:00,988  INFO     sources  [NCBI] По запросу 'transcription attenuation[Title] AND leader peptide' ничего не найдено
+2026-09-20 17:54:02,390  INFO     etl_pipeline  NCBI: загружено 6 новых записей
+2026-09-20 17:54:02,390  INFO     etl_pipeline  ═══ Этап 4: Поиск статей в Europe PMC ═══
+2026-09-20 17:54:03,344  INFO     sources  [EuropePMC] По запросу 'riboswitch AND crystal structure' найдено 5 статей
+2026-09-20 17:54:03,354  INFO     db_manager  ✅ Новая запись: PMC_42687492
+2026-09-20 17:54:03,358  INFO     db_manager  ✅ Новая запись: PMC_42128271
+2026-09-20 17:54:03,362  INFO     db_manager  ✅ Новая запись: PMC_42214674
+2026-09-20 17:54:03,366  INFO     db_manager  ✅ Новая запись: PMC_41990318
+2026-09-20 17:54:05,051  INFO     sources  [EuropePMC] По запросу 'RNA thermometer AND gene regulation' найдено 5 статей
+2026-09-20 17:54:05,056  INFO     db_manager  ✅ Новая запись: PMC_42714636
+2026-09-20 17:54:05,060  INFO     db_manager  ✅ Новая запись: PMC_41478572
+2026-09-20 17:54:05,064  INFO     db_manager  ✅ Новая запись: PMC_42589232
+2026-09-20 17:54:05,068  INFO     db_manager  ✅ Новая запись: PMC_41397952
+2026-09-20 17:54:05,071  INFO     db_manager  ✅ Новая запись: PMC_42702882
+2026-09-20 17:54:06,507  INFO     sources  [EuropePMC] По запросу 'transcription attenuation AND leader peptide' найдено 5 статей
+2026-09-20 17:54:06,513  INFO     db_manager  ✅ Новая запись: PMC_42500816
+2026-09-20 17:54:06,517  INFO     db_manager  ✅ Новая запись: PMC_42156950
+2026-09-20 17:54:06,521  INFO     db_manager  ✅ Новая запись: PMC_42139344
+2026-09-20 17:54:06,525  INFO     db_manager  ✅ Новая запись: PMC_42549574
+2026-09-20 17:54:06,530  INFO     db_manager  ✅ Новая запись: PMC_42136384
+2026-09-20 17:54:07,230  INFO     etl_pipeline  EuropePMC: загружено 14 новых записей
+2026-09-20 17:54:07,231  INFO     etl_pipeline  🎉 ETL завершён. Всего записей в БД: 125
+2026-09-20 17:54:22,059  INFO     quality_control  ═══ Аудит качества: 125 записей проверено ═══
+2026-09-20 17:54:22,059  INFO     quality_control    Некорректный JSON:    0
+2026-09-20 17:54:22,059  INFO     quality_control    Плохие последовательности: 9
+2026-09-20 17:54:22,059  INFO     quality_control    Логические предупреждения: 0
+2026-09-20 17:54:22,059  WARNING  quality_control    [bad_sequence] CSV_15
+2026-09-20 17:54:22,059  WARNING  quality_control    [bad_sequence] CSV_41
+2026-09-20 17:54:22,060  WARNING  quality_control    [bad_sequence] CSV_53
+2026-09-20 17:54:22,060  WARNING  quality_control    [bad_sequence] NCBI_pdb|6HC5|A
+2026-09-20 17:54:22,060  WARNING  quality_control    [bad_sequence] NCBI_pdb|6HBX|A
+2026-09-20 17:54:22,060  WARNING  quality_control    [bad_sequence] NCBI_pdb|6HBT|A
+2026-09-20 17:54:22,060  WARNING  quality_control    [bad_sequence] NCBI_QW258536.1
+2026-09-20 17:54:22,060  WARNING  quality_control    [bad_sequence] NCBI_QW258535.1
+2026-09-20 17:54:22,060  WARNING  quality_control    [bad_sequence] NCBI_QW258534.1
+2026-09-20 18:02:16,773  INFO     db_manager  Схема БД создана/проверена (с защитой от дубликатов по seq_hash).
+2026-09-20 18:02:16,797  INFO     db_manager  ✅ Новая запись: CSV_1
+2026-09-20 18:02:16,801  INFO     db_manager  ✅ Новая запись: CSV_2
+2026-09-20 18:02:16,805  INFO     db_manager  ✅ Новая запись: CSV_3
+2026-09-20 18:02:16,808  INFO     db_manager  ✅ Новая запись: CSV_4
+2026-09-20 18:02:16,811  INFO     db_manager  ✅ Новая запись: CSV_5
+2026-09-20 18:02:16,814  INFO     db_manager  ✅ Новая запись: CSV_6
+2026-09-20 18:02:16,817  INFO     db_manager  ✅ Новая запись: CSV_8
+2026-09-20 18:02:16,821  INFO     db_manager  ✅ Новая запись: CSV_9
+2026-09-20 18:02:16,825  INFO     db_manager  ✅ Новая запись: CSV_10
+2026-09-20 18:02:16,827  INFO     db_manager  ✅ Новая запись: CSV_11
+2026-09-20 18:02:16,831  INFO     db_manager  ✅ Новая запись: CSV_12
+2026-09-20 18:02:16,834  INFO     db_manager  ✅ Новая запись: CSV_13
+2026-09-20 18:02:16,838  INFO     db_manager  ✅ Новая запись: CSV_14
+2026-09-20 18:02:16,841  INFO     db_manager  ✅ Новая запись: CSV_15
+2026-09-20 18:02:16,844  INFO     db_manager  ✅ Новая запись: CSV_31
+2026-09-20 18:02:16,847  INFO     db_manager  ✅ Новая запись: CSV_34
+2026-09-20 18:02:16,850  INFO     db_manager  ✅ Новая запись: CSV_35
+2026-09-20 18:02:16,853  INFO     db_manager  ✅ Новая запись: CSV_37
+2026-09-20 18:02:16,858  INFO     db_manager  ✅ Новая запись: CSV_38
+2026-09-20 18:02:16,860  INFO     db_manager  ✅ Новая запись: CSV_39
+2026-09-20 18:02:16,864  INFO     db_manager  ✅ Новая запись: CSV_40
+2026-09-20 18:02:16,867  INFO     db_manager  ✅ Новая запись: CSV_42
+2026-09-20 18:02:16,870  INFO     db_manager  ✅ Новая запись: CSV_43
+2026-09-20 18:02:16,873  INFO     db_manager  ✅ Новая запись: CSV_44
+2026-09-20 18:02:16,876  INFO     db_manager  ✅ Новая запись: CSV_46
+2026-09-20 18:02:16,879  INFO     db_manager  ✅ Новая запись: CSV_47
+2026-09-20 18:02:16,882  INFO     db_manager  ✅ Новая запись: CSV_48
+2026-09-20 18:02:16,886  INFO     db_manager  ✅ Новая запись: CSV_49
+2026-09-20 18:02:16,889  INFO     db_manager  ✅ Новая запись: CSV_54
+2026-09-20 18:02:16,892  INFO     db_manager  ✅ Новая запись: CSV_55
+2026-09-20 18:02:16,895  INFO     db_manager  ✅ Новая запись: CSV_57
+2026-09-20 18:02:16,899  INFO     db_manager  ✅ Новая запись: CSV_58
+2026-09-20 18:02:16,901  INFO     db_manager  ✅ Новая запись: CSV_59
+2026-09-20 18:02:16,905  INFO     db_manager  ✅ Новая запись: CSV_61
+2026-09-20 18:02:16,908  INFO     db_manager  ✅ Новая запись: CSV_63
+2026-09-20 18:02:16,911  INFO     db_manager  ✅ Новая запись: CSV_64
+2026-09-20 18:02:16,914  INFO     db_manager  ✅ Новая запись: CSV_65
+2026-09-20 18:02:16,917  INFO     db_manager  ✅ Новая запись: CSV_66
+2026-09-20 18:02:16,924  INFO     db_manager  ✅ Новая запись: CSV_67
+2026-09-20 18:02:16,928  INFO     db_manager  ✅ Новая запись: CSV_68
+2026-09-20 18:02:16,932  INFO     db_manager  ✅ Новая запись: CSV_69
+2026-09-20 18:02:16,936  INFO     db_manager  ✅ Новая запись: CSV_70
+2026-09-20 18:02:16,940  INFO     db_manager  ✅ Новая запись: CSV_71
+2026-09-20 18:02:16,940  INFO     db_manager  Загружено 43 новых записей из 89
+2026-09-20 18:02:16,940  INFO     run  Мигрировано 43 записей. Всего: 43
+2026-09-20 18:08:37,926  INFO     db_manager  Схема БД создана/проверена (с защитой от дубликатов по seq_hash).
+2026-09-20 18:08:37,926  INFO     etl_pipeline  ═══ Этап 1: Загрузка seed-данных из литературы ═══
+2026-09-20 18:08:37,934  INFO     db_manager  ✅ Новая запись: SEED_RF01725_PSYR
+2026-09-20 18:08:37,939  INFO     db_manager  ✅ Новая запись: SEED_FOURU_AGSA_SENT
+2026-09-20 18:08:37,979  INFO     db_manager  ✅ Новая запись: SEED_ERMC_BSUB
+2026-09-20 18:08:37,984  INFO     db_manager  ✅ Новая запись: SEED_CAT86_BSUB
+2026-09-20 18:08:37,984  INFO     etl_pipeline  Seed: загружено 4 новых из 10
+2026-09-20 18:08:37,984  INFO     etl_pipeline  ═══ Этап 2: Извлечение из RNAcentral по Rfam ID ═══
+2026-09-20 18:08:37,984  INFO     etl_pipeline  🔍 RF00059 — FMN riboswitch
+2026-09-20 18:09:08,918  INFO     etl_pipeline  🔍 RF00050 — SAM-I riboswitch
+2026-09-20 18:09:40,165  INFO     etl_pipeline  🔍 RF00080 — TPP riboswitch
+2026-09-20 18:10:10,982  INFO     etl_pipeline  🔍 RF00162 — Glycine riboswitch
+2026-09-20 18:10:42,332  INFO     etl_pipeline  🔍 RF00168 — Lysine riboswitch
+2026-09-20 18:11:13,172  INFO     etl_pipeline  🔍 RF00504 — Purine riboswitch
+2026-09-20 18:11:44,899  INFO     etl_pipeline  🔍 RF00622 — SAM-II riboswitch
+2026-09-20 18:12:16,113  INFO     etl_pipeline  🔍 RF01055 — SAM-IV riboswitch
+2026-09-20 18:12:46,975  INFO     etl_pipeline  🔍 RF01174 — SAM-V riboswitch
+2026-09-20 18:13:17,806  INFO     etl_pipeline  🔍 RF01734 — SAM-VI riboswitch
+2026-09-20 18:13:48,631  INFO     etl_pipeline  🔍 RF00380 — c-di-GMP-II riboswitch
+2026-09-20 18:14:19,303  INFO     etl_pipeline  🔍 RF00234 — c-di-GMP-I riboswitch
+2026-09-20 18:14:50,047  INFO     etl_pipeline  🔍 RF01800 — c-di-GMP-III riboswitch
+2026-09-20 18:15:20,842  INFO     etl_pipeline  🔍 RF00521 — PreQ1 riboswitch
+2026-09-20 18:15:51,648  INFO     etl_pipeline  🔍 RF01831 — Guanidine riboswitch
+2026-09-20 18:16:22,826  INFO     etl_pipeline  🔍 RF02002 — ZTP riboswitch
+2026-09-20 18:16:53,567  INFO     etl_pipeline  🔍 RF02003 — ppGpp riboswitch
+2026-09-20 18:17:24,827  INFO     etl_pipeline  🔍 RF01725 — Fluoride riboswitch
+2026-09-20 18:17:55,620  INFO     etl_pipeline  🔍 RF00174 — MoCo riboswitch
+2026-09-20 18:18:26,435  INFO     etl_pipeline  🔍 RF01054 — ykoK riboswitch
+2026-09-20 18:18:57,227  INFO     etl_pipeline  🔍 RF00442 — Mg2 riboswitch
+2026-09-20 18:19:28,183  INFO     etl_pipeline  🔍 RF01786 — NiMM riboswitch
+2026-09-20 18:19:58,956  INFO     etl_pipeline  🔍 RF01727 — c-di-AMP riboswitch
+2026-09-20 18:20:30,422  INFO     etl_pipeline  🔍 RF01750 — SAH riboswitch
+2026-09-20 18:21:01,231  INFO     etl_pipeline  🔍 RF00163 — THF riboswitch
+2026-09-20 18:21:31,914  INFO     etl_pipeline  🔍 RF00639 — Lysine riboswitch (type 2)
+2026-09-20 18:22:03,213  INFO     etl_pipeline  🔍 RF01742 — Riboflavin riboswitch
+2026-09-20 18:22:33,998  INFO     etl_pipeline  🔍 RF01787 — B12 riboswitch (BtuB)
+2026-09-20 18:23:04,720  INFO     etl_pipeline  🔍 RF01788 — B12 riboswitch (EutB)
+2026-09-20 18:23:35,560  INFO     etl_pipeline  🔍 RF00060 — T-box (hisS)
+2026-09-20 18:24:06,408  INFO     etl_pipeline  🔍 RF01051 — T-box (ileS)
+2026-09-20 18:24:37,162  INFO     etl_pipeline  🔍 RF01052 — T-box (leuS)
+2026-09-20 18:25:07,898  INFO     etl_pipeline  🔍 RF01053 — T-box (thrS)
+2026-09-20 18:25:38,599  INFO     etl_pipeline  🔍 RF01681 — T-box (glyS)
+2026-09-20 18:26:09,278  INFO     etl_pipeline  🔍 RF00032 — ROSE-like thermometer
+2026-09-20 18:26:39,970  INFO     etl_pipeline  🔍 RF00033 — FourU thermometer
+2026-09-20 18:27:10,729  INFO     etl_pipeline  🔍 RF00559 — RNA thermometer (short)
+2026-09-20 18:27:42,087  INFO     etl_pipeline  🔍 RF01042 — RNA thermometer (long)
+2026-09-20 18:28:12,878  INFO     etl_pipeline  🔍 RF00035 — Antisense RNA
+2026-09-20 18:28:44,091  INFO     etl_pipeline  🔍 RF00036 — Antisense RNA (type 2)
+2026-09-20 18:29:14,926  INFO     etl_pipeline  RNAcentral (Rfam): загружено 0 новых записей
+2026-09-20 18:29:14,927  INFO     etl_pipeline  ═══ Этап 2.5: МАССОВЫЙ СБОР из RNAcentral (Bulk) ═══
+2026-09-20 18:29:14,927  INFO     sources  [RNAcentral Bulk] Начало массового сбора по запросу: 'riboswitch' (лимит 500)
+2026-09-20 18:29:45,465  ERROR    sources  [RNAcentral Bulk] Ошибка пагинации: HTTPSConnectionPool(host='rnacentral.org', port=443): Read timed out. (read timeout=30)
+2026-09-20 18:29:47,466  INFO     sources  [RNAcentral Bulk] Начало массового сбора по запросу: 'attenuator' (лимит 500)
+2026-09-20 18:30:17,458  ERROR    sources  [RNAcentral Bulk] Ошибка пагинации: HTTPSConnectionPool(host='rnacentral.org', port=443): Read timed out. (read timeout=30)
+2026-09-20 18:30:19,476  INFO     sources  [RNAcentral Bulk] Начало массового сбора по запросу: 'RNA thermometer' (лимит 500)
+2026-09-20 18:30:49,423  ERROR    sources  [RNAcentral Bulk] Ошибка пагинации: HTTPSConnectionPool(host='rnacentral.org', port=443): Read timed out. (read timeout=30)
+2026-09-20 18:30:51,424  INFO     sources  [RNAcentral Bulk] Начало массового сбора по запросу: 'T-box' (лимит 500)
+2026-09-20 18:31:21,427  ERROR    sources  [RNAcentral Bulk] Ошибка пагинации: HTTPSConnectionPool(host='rnacentral.org', port=443): Read timed out. (read timeout=30)
+2026-09-20 18:31:23,429  INFO     sources  [RNAcentral Bulk] Начало массового сбора по запросу: 'leader peptide' (лимит 500)
+2026-09-20 18:31:53,563  ERROR    sources  [RNAcentral Bulk] Ошибка пагинации: HTTPSConnectionPool(host='rnacentral.org', port=443): Read timed out. (read timeout=30)
+2026-09-20 18:31:55,579  INFO     sources  [RNAcentral Bulk] Начало массового сбора по запросу: 'transcription termination' (лимит 500)
+2026-09-20 18:32:25,493  ERROR    sources  [RNAcentral Bulk] Ошибка пагинации: HTTPSConnectionPool(host='rnacentral.org', port=443): Read timed out. (read timeout=30)
+2026-09-20 18:32:27,514  INFO     etl_pipeline  RNAcentral Bulk: загружено 0 новых записей
+2026-09-20 18:32:27,514  INFO     etl_pipeline  ═══ Этап 3: Извлечение из NCBI Entrez ═══
+2026-09-20 18:32:28,411  INFO     sources  [NCBI] Найдено 85 ID по запросу 'riboswitch[Title] AND (sequence[Title] OR structure[Title])'
+2026-09-20 18:32:30,471  INFO     db_manager  ✅ Новая запись: NCBI_pdb|6HC5|A
+2026-09-20 18:32:30,476  INFO     db_manager  ✅ Новая запись: NCBI_pdb|5NDI|D
+2026-09-20 18:32:30,480  INFO     db_manager  ✅ Новая запись: NCBI_pdb|5NDH|D
+2026-09-20 18:32:30,484  INFO     db_manager  ✅ Новая запись: NCBI_pdb|8I3Z|A
+2026-09-20 18:32:30,488  INFO     db_manager  ✅ Новая запись: NCBI_pdb|6YMM|D
+2026-09-20 18:32:30,491  INFO     db_manager  ✅ Новая запись: NCBI_PV166799.1
+2026-09-20 18:32:30,497  INFO     db_manager  ✅ Новая запись: NCBI_PV166798.1
+2026-09-20 18:32:30,502  INFO     db_manager  ✅ Новая запись: NCBI_ON420954.1
+2026-09-20 18:32:30,505  INFO     db_manager  ✅ Новая запись: NCBI_ON420953.1
+2026-09-20 18:32:30,510  INFO     db_manager  ✅ Новая запись: NCBI_ON420952.1
+2026-09-20 18:32:30,515  INFO     db_manager  ✅ Новая запись: NCBI_ON420951.1
+2026-09-20 18:32:30,521  INFO     db_manager  ✅ Новая запись: NCBI_KX058561.1
+2026-09-20 18:32:30,526  INFO     db_manager  ✅ Новая запись: NCBI_BK009217.1
+2026-09-20 18:32:30,531  INFO     db_manager  ✅ Новая запись: NCBI_BK009216.1
+2026-09-20 18:32:30,540  INFO     db_manager  ✅ Новая запись: NCBI_BK009215.1
+2026-09-20 18:32:30,547  INFO     db_manager  ✅ Новая запись: NCBI_BK009214.1
+2026-09-20 18:32:30,553  INFO     db_manager  ✅ Новая запись: NCBI_BK009213.1
+2026-09-20 18:32:30,558  INFO     db_manager  ✅ Новая запись: NCBI_BK009212.1
+2026-09-20 18:32:30,563  INFO     db_manager  ✅ Новая запись: NCBI_BK009211.1
+2026-09-20 18:32:30,568  INFO     db_manager  ✅ Новая запись: NCBI_BK009210.1
+2026-09-20 18:32:30,573  INFO     db_manager  ✅ Новая запись: NCBI_BK009209.1
+2026-09-20 18:32:30,580  INFO     db_manager  ✅ Новая запись: NCBI_BK009208.1
+2026-09-20 18:32:30,585  INFO     db_manager  ✅ Новая запись: NCBI_BK009207.1
+2026-09-20 18:32:30,590  INFO     db_manager  ✅ Новая запись: NCBI_BK009206.1
+2026-09-20 18:32:30,596  INFO     db_manager  ✅ Новая запись: NCBI_BK009205.1
+2026-09-20 18:32:30,603  INFO     db_manager  ✅ Новая запись: NCBI_BK009204.1
+2026-09-20 18:32:30,609  INFO     db_manager  ✅ Новая запись: NCBI_BK009203.1
+2026-09-20 18:32:30,614  INFO     db_manager  ✅ Новая запись: NCBI_BK009202.1
+2026-09-20 18:32:30,620  INFO     db_manager  ✅ Новая запись: NCBI_BK009201.1
+2026-09-20 18:32:30,625  INFO     db_manager  ✅ Новая запись: NCBI_BK009200.1
+2026-09-20 18:32:30,631  INFO     db_manager  ✅ Новая запись: NCBI_BK009199.1
+2026-09-20 18:32:30,637  INFO     db_manager  ✅ Новая запись: NCBI_BK009198.1
+2026-09-20 18:32:30,642  INFO     db_manager  ✅ Новая запись: NCBI_BK009197.1
+2026-09-20 18:32:30,647  INFO     db_manager  ✅ Новая запись: NCBI_BK009196.1
+2026-09-20 18:32:30,652  INFO     db_manager  ✅ Новая запись: NCBI_BK009195.1
+2026-09-20 18:32:30,660  INFO     db_manager  ✅ Новая запись: NCBI_BK009194.1
+2026-09-20 18:32:30,664  INFO     db_manager  ✅ Новая запись: NCBI_BK009193.1
+2026-09-20 18:32:30,668  INFO     db_manager  ✅ Новая запись: NCBI_BK009192.1
+2026-09-20 18:32:30,671  INFO     db_manager  ✅ Новая запись: NCBI_BK009191.1
+2026-09-20 18:32:30,675  INFO     db_manager  ✅ Новая запись: NCBI_BK009190.1
+2026-09-20 18:32:32,749  INFO     sources  [NCBI] Найдено 100 ID по запросу 'RNA thermometer[Title] AND (attenuator OR terminator)'
+2026-09-20 18:32:34,761  INFO     db_manager  ✅ Новая запись: NCBI_QW258536.1
+2026-09-20 18:32:34,764  INFO     db_manager  ✅ Новая запись: NCBI_QW258535.1
+2026-09-20 18:32:34,768  INFO     db_manager  ✅ Новая запись: NCBI_QW258534.1
+2026-09-20 18:32:34,772  INFO     db_manager  ✅ Новая запись: NCBI_QW258533.1
+2026-09-20 18:32:34,774  INFO     db_manager  ✅ Новая запись: NCBI_QW258532.1
+2026-09-20 18:32:34,778  INFO     db_manager  ✅ Новая запись: NCBI_QW258531.1
+2026-09-20 18:32:34,781  INFO     db_manager  ✅ Новая запись: NCBI_QW258530.1
+2026-09-20 18:32:34,785  INFO     db_manager  ✅ Новая запись: NCBI_QW258529.1
+2026-09-20 18:32:34,789  INFO     db_manager  ✅ Новая запись: NCBI_QW258528.1
+2026-09-20 18:32:34,793  INFO     db_manager  ✅ Новая запись: NCBI_QW258527.1
+2026-09-20 18:32:34,797  INFO     db_manager  ✅ Новая запись: NCBI_QW258526.1
+2026-09-20 18:32:34,800  INFO     db_manager  ✅ Новая запись: NCBI_QW258525.1
+2026-09-20 18:32:34,803  INFO     db_manager  ✅ Новая запись: NCBI_QW258524.1
+2026-09-20 18:32:34,807  INFO     db_manager  ✅ Новая запись: NCBI_pdb|7ADE|R
+2026-09-20 18:32:34,811  INFO     db_manager  ✅ Новая запись: NCBI_KY024498.1
+2026-09-20 18:32:34,814  INFO     db_manager  ✅ Новая запись: NCBI_QT596369.1
+2026-09-20 18:32:34,818  INFO     db_manager  ✅ Новая запись: NCBI_QQ250595.1
+2026-09-20 18:32:34,821  INFO     db_manager  ✅ Новая запись: NCBI_QQ250584.1
+2026-09-20 18:32:34,825  INFO     db_manager  ✅ Новая запись: NCBI_QS000981.1
+2026-09-20 18:32:34,828  INFO     db_manager  ✅ Новая запись: NCBI_PZ411294.1
+2026-09-20 18:32:34,831  INFO     db_manager  ✅ Новая запись: NCBI_NR_185262.1
+2026-09-20 18:32:34,835  INFO     db_manager  ✅ Новая запись: NCBI_NR_185263.1
+2026-09-20 18:32:34,838  INFO     db_manager  ✅ Новая запись: NCBI_NR_185261.1
+2026-09-20 18:32:34,841  INFO     db_manager  ✅ Новая запись: NCBI_PZ086169.1
+2026-09-20 18:32:34,845  INFO     db_manager  ✅ Новая запись: NCBI_AB030567.1
+2026-09-20 18:32:34,848  INFO     db_manager  ✅ Новая запись: NCBI_PX702928.1
+2026-09-20 18:32:34,852  INFO     db_manager  ✅ Новая запись: NCBI_NR_177067.1
+2026-09-20 18:32:34,856  INFO     db_manager  ✅ Новая запись: NCBI_NR_177068.1
+2026-09-20 18:32:34,860  INFO     db_manager  ✅ Новая запись: NCBI_NR_177069.1
+2026-09-20 18:32:34,863  INFO     db_manager  ✅ Новая запись: NCBI_PQ380140.1
+2026-09-20 18:32:34,866  INFO     db_manager  ✅ Новая запись: NCBI_PQ380139.1
+2026-09-20 18:32:34,871  INFO     db_manager  ✅ Новая запись: NCBI_PQ380138.1
+2026-09-20 18:32:34,875  INFO     db_manager  ✅ Новая запись: NCBI_OR555784.1
+2026-09-20 18:32:34,877  INFO     db_manager  ✅ Новая запись: NCBI_OR555783.1
+2026-09-20 18:32:34,881  INFO     db_manager  ✅ Новая запись: NCBI_PV789528.1
+2026-09-20 18:32:34,884  INFO     db_manager  ✅ Новая запись: NCBI_PV789527.1
+2026-09-20 18:32:34,888  INFO     db_manager  ✅ Новая запись: NCBI_PH308643.1
+2026-09-20 18:32:34,892  INFO     db_manager  ✅ Новая запись: NCBI_NM_001421169.1
+2026-09-20 18:32:34,895  INFO     db_manager  ✅ Новая запись: NCBI_OQ096503.1
+2026-09-20 18:32:34,899  INFO     db_manager  ✅ Новая запись: NCBI_NM_001421170.1
+2026-09-20 18:32:34,903  INFO     db_manager  ✅ Новая запись: NCBI_NM_009442.2
+2026-09-20 18:32:34,907  INFO     db_manager  ✅ Новая запись: NCBI_NM_014188.3
+2026-09-20 18:32:34,911  INFO     db_manager  ✅ Новая запись: NCBI_PD409596.1
+2026-09-20 18:32:34,915  INFO     db_manager  ✅ Новая запись: NCBI_PD409595.1
+2026-09-20 18:32:34,918  INFO     db_manager  ✅ Новая запись: NCBI_PD409594.1
+2026-09-20 18:32:34,922  INFO     db_manager  ✅ Новая запись: NCBI_PD409593.1
+2026-09-20 18:32:34,926  INFO     db_manager  ✅ Новая запись: NCBI_PD409592.1
+2026-09-20 18:32:34,930  INFO     db_manager  ✅ Новая запись: NCBI_PD409591.1
+2026-09-20 18:32:34,934  INFO     db_manager  ✅ Новая запись: NCBI_PD409590.1
+2026-09-20 18:32:34,938  INFO     db_manager  ✅ Новая запись: NCBI_PD409589.1
+2026-09-20 18:32:34,942  INFO     db_manager  ✅ Новая запись: NCBI_PD409588.1
+2026-09-20 18:32:34,946  INFO     db_manager  ✅ Новая запись: NCBI_PD409587.1
+2026-09-20 18:32:34,949  INFO     db_manager  ✅ Новая запись: NCBI_PD409586.1
+2026-09-20 18:32:34,952  INFO     db_manager  ✅ Новая запись: NCBI_PD409585.1
+2026-09-20 18:32:34,957  INFO     db_manager  ✅ Новая запись: NCBI_PD409584.1
+2026-09-20 18:32:34,961  INFO     db_manager  ✅ Новая запись: NCBI_PD409583.1
+2026-09-20 18:32:34,965  INFO     db_manager  ✅ Новая запись: NCBI_PD409582.1
+2026-09-20 18:32:34,968  INFO     db_manager  ✅ Новая запись: NCBI_PD409581.1
+2026-09-20 18:32:34,972  INFO     db_manager  ✅ Новая запись: NCBI_PD409580.1
+2026-09-20 18:32:34,976  INFO     db_manager  ✅ Новая запись: NCBI_PD409579.1
+2026-09-20 18:32:34,980  INFO     db_manager  ✅ Новая запись: NCBI_PD409578.1
+2026-09-20 18:32:34,983  INFO     db_manager  ✅ Новая запись: NCBI_PD409577.1
+2026-09-20 18:32:34,986  INFO     db_manager  ✅ Новая запись: NCBI_PD409576.1
+2026-09-20 18:32:34,990  INFO     db_manager  ✅ Новая запись: NCBI_PD409575.1
+2026-09-20 18:32:34,994  INFO     db_manager  ✅ Новая запись: NCBI_PD409574.1
+2026-09-20 18:32:34,997  INFO     db_manager  ✅ Новая запись: NCBI_PD409573.1
+2026-09-20 18:32:35,003  INFO     db_manager  ✅ Новая запись: NCBI_PD409572.1
+2026-09-20 18:32:35,006  INFO     db_manager  ✅ Новая запись: NCBI_PD409571.1
+2026-09-20 18:32:35,011  INFO     db_manager  ✅ Новая запись: NCBI_PD409570.1
+2026-09-20 18:32:35,015  INFO     db_manager  ✅ Новая запись: NCBI_PD409569.1
+2026-09-20 18:32:35,018  INFO     db_manager  ✅ Новая запись: NCBI_PD409568.1
+2026-09-20 18:32:37,122  INFO     sources  [NCBI] По запросу 'transcription attenuation[Title] AND leader peptide' ничего не найдено
+2026-09-20 18:32:38,531  INFO     etl_pipeline  NCBI: загружено 111 новых записей
+2026-09-20 18:32:38,532  INFO     etl_pipeline  ═══ Этап 4: Поиск статей в Europe PMC ═══
+2026-09-20 18:32:40,049  INFO     sources  [EuropePMC] По запросу 'riboswitch AND crystal structure' найдено 20 статей
+2026-09-20 18:32:41,798  INFO     sources  [EuropePMC] По запросу 'RNA thermometer AND gene regulation' найдено 20 статей
+2026-09-20 18:32:43,703  INFO     sources  [EuropePMC] По запросу 'transcription attenuation AND leader peptide' найдено 20 статей
+2026-09-20 18:32:44,414  INFO     etl_pipeline  EuropePMC: найдено 57 уникальных статей. Сохранено в /home/mergen/attenuator_db/found_articles.json
+2026-09-20 18:32:44,414  INFO     etl_pipeline  🎉 ETL завершён. Всего уникальных последовательностей в БД: 158
